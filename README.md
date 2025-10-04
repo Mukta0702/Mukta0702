@@ -38,8 +38,5 @@
 
 ## 🌸 Fun Facts
 - 📚 I enjoy reading finance & fiction books  
-- 🥮 Skilled in baking and cooking  
-- 🏋️ Love going to the gym  
-- 🍁 Autumn is my favorite season  
 
 ---
