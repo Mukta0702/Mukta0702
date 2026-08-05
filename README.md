@@ -1,6 +1,6 @@
 # Hi there, I'm Mukta Lakkawar 👋
 
-🎓 **3rd-year BCA Student** at DY Patil University, Ambi  
+🎓 **BCA Graduate** from DY Patil University, Ambi  
 💻 Building **Data Science**, **AI**, and **analytics** projects end to end  
 📍 Based in Pune, Maharashtra, India  
 
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🔍 Exploring applied **Data Science** and **AI** through project-based work  
 - 💻 Building end-to-end projects in **Machine Learning, SQL analytics, and Power BI dashboards**  
-- 🤝 Open to collaborating on **data-driven projects**, **internships**, and **hackathons**  
+- 🤝 Open to collaborating on **data-driven projects**, **entry-level roles**, and **internships**  
 - 🎯 Goal: create real-world impact with technology and keep growing as a data professional  
 
 ---
